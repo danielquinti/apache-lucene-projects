@@ -1,0 +1,1 @@
+La ejecución de las cuatro clases requiere un parámetro adicional que no se especifica en todas: "-coll PATHNAME", que determina la ruta de la carpeta NPL.
